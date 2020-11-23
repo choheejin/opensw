@@ -1,3 +1,5 @@
+/* fix comment */
+
 #include <stdio.h>
 
 void func1(int* p);
